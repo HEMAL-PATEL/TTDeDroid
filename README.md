@@ -21,7 +21,7 @@ Python 2 (version 2.7 or later), or Python 3 (version 3.5 or later).
 
 ## Quick Start
 ### Windows
-1. add `bin` directory **absolute path** to `PATH` system variable.
+1. add `TTdeDroid\bin` directory **absolute path** to `PATH` system variable.
 2. then you can execute command for decompile `*.apk/*.aar/*.dex/*.jar` anywhere, GUI will be automatically opened.
 ```
 showjar test.apk
